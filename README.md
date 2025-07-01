@@ -85,8 +85,8 @@ npx react-native start
 cd .\chat_App\
 npx react-native run-android 
 ```
-
-###Start the server
+---
+### Start the server
 ```bash
 cd ./bknd/
 .\<your venv>\Scripts\activate
