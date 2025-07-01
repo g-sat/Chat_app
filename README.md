@@ -11,3 +11,12 @@ Follow these steps to set up and run the application:
 git clone https://github.com/g-sat/Chat_app.git
 cd .\chat_app\
 ```
+
+### 2. Create a virtual Environment(python3.11)
+```bash
+pip install venv
+cd .\bknd\
+Remove-Item .\env\ -Recurse -Force
+python3.11 -m venv env
+.\env\Scripts\activate
+```
