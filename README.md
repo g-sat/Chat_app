@@ -13,6 +13,7 @@ cd .\chat_app\
 ```
 ### Backend
 
+
 #### 2. Create a virtual Environment(python3.11)
 ```bash
 pip install venv
