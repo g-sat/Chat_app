@@ -1,0 +1,13 @@
+# Chat Application Module
+
+This is a **chat application module** that is part of a larger application. It enables the chat feature within the main app.
+
+## Getting Started
+
+Follow these steps to set up and run the application:
+
+### 1. Clone the Repository
+'''bash
+git clone https://github.com/g-sat/Chat_app.git
+cd .\chat_app\
+'''
