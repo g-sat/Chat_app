@@ -41,18 +41,18 @@ npm install
 ```
 
 ---
-> [!NOTE]
+> [!IMPORTANT]
 > Configure SDKs in SDK Manager<br/>
-> 🔍 Open SDK Manager inside Android Studio<br/>
->  📌 Go to the SDK Platforms tab and select these versions: ✅ Android 13.0 ("Tiramisu") – API 33-ext4<br/>
->    ✅ Android 12.0 ("S") – API 31 ___[Advised]___ <br/> 
->    ✅ Android 11.0 ("R") – API 30<br/>
->  📌 Go to the SDK Tools tab and check these options: ✅ Android SDK Build-Tools 35<br/>
->    ✅ Android SDK Command-line Tools<br/>
->    ✅ Android Emulator<br/>
->    ✅ Android Emulator Hypervisor Driver (Installer)<br/>
->    ✅ Android SDK Platform-Tools<br/>
->    ✅ Google Play Services<br/>
+> _🔍 Open SDK Manager inside Android Studio<br/>
+>   _📌 Go to the SDK Platforms tab and select these versions: ✅ Android 13.0 ("Tiramisu") – API 33-ext4<br/>
+>     _✅ Android 12.0 ("S") – API 31 ___[Advised]___ <br/> 
+>     _✅ Android 11.0 ("R") – API 30<br/>
+>   _📌 Go to the SDK Tools tab and check these options: ✅ Android SDK Build-Tools 35<br/>
+>     _✅ Android SDK Command-line Tools<br/>
+>     _✅ Android Emulator<br/>
+>     _✅ Android Emulator Hypervisor Driver (Installer)<br/>
+>     _✅ Android SDK Platform-Tools<br/>
+>     _✅ Google Play Services<br/>
 
 ## Run the app
 
