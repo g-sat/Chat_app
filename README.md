@@ -11,6 +11,8 @@ Follow these steps to set up and run the application:
 git clone https://github.com/g-sat/Chat_app.git
 cd .\chat_app\
 ```
+
+---
 ### Backend
 -------------------------------------------------------------------------------
 
@@ -27,6 +29,14 @@ python3.11 -m venv env
 ```shell
 pip install .\requirments.txt
 ```
+
+---
 ### Frontend
+-------------------------------------------------------------------------------
 
 #### 4. React native setup
+```bash
+cd .\chat_app\
+npm install
+```
+
