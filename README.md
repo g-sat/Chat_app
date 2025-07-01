@@ -13,8 +13,7 @@ cd .\chat_app\
 ```
 
 ---
-### Backend
--------------------------------------------------------------------------------
+## Backend
 
 #### 2. Create a virtual Environment(python3.11)
 ```bash
@@ -31,8 +30,7 @@ pip install .\requirments.txt
 ```
 
 ---
-### Frontend
--------------------------------------------------------------------------------
+## Frontend
 
 #### 4. React native setup
 ```bash
