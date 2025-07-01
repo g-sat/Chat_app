@@ -1,7 +1,7 @@
 # Chat Application Module
 
 This is a **chat application module** that is part of a larger application. It enables the chat feature within the main app.
-[develeped on Android using Android studio]
+ ___[develeped on Android using Android studio]___ 
 ## Getting Started
 
 Follow these steps to set up and run the application:
