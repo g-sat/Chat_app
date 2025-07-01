@@ -30,6 +30,8 @@ python3.11 -m venv env
 ```shell
 pip install .\requirments.txt
 ```
+>[!caution]
+>change the alimbic and backend files to your sql credintials 
 
 ---
 ## Frontend setup
@@ -77,14 +79,20 @@ npm run android
 cd .\chat_App\
 npx react-native start
 ```
-### Building the app
+#### Building the app
 >In a new Ternimal
 ```bash
 cd .\chat_App\
 npx react-native run-android 
 ```
 
-
+###Start the server
+```bash
+cd ./bknd/
+.\<your venv>\Scripts\activate
+cd .\chat_App\
+uvicorn app.main:app --reload
+```
 
 
 
