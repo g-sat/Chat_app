@@ -16,6 +16,8 @@ cd .\chat_app\
 ## Backend setup
 
 #### 2. Create a virtual Environment(python3.11)
+>[!tip]
+>Advised to use python version 3.11
 ```bash
 pip install venv
 cd .\bknd\
@@ -43,7 +45,7 @@ npm install
 > Configure SDKs in SDK Manager<br/>
 > 🔍 Open SDK Manager inside Android Studio<br/>
 >  📌 Go to the SDK Platforms tab and select these versions: ✅ Android 13.0 ("Tiramisu") – API 33-ext4<br/>
->    ✅ Android 12.0 ("S") – API 31<br/>
+>    ✅ Android 12.0 ("S") – API 31<br/> ___[Advised]___
 >    ✅ Android 11.0 ("R") – API 30<br/>
 >  📌 Go to the SDK Tools tab and check these options: ✅ Android SDK Build-Tools 35<br/>
 >    ✅ Android SDK Command-line Tools<br/>
@@ -53,7 +55,34 @@ npm install
 >    ✅ Google Play Services<br/>
 
 ## Run the app
+
+>[!Note]
+>if you are using npm
+#### Starting the server
 ```bash
+cd .\chat_App\
+npm start
+```
+### Building the app
+>In a new Ternimal
+```bash
+cd .\chat_App\
+npm run android 
+```
+
+>[!Note]
+>if you are using npx
+#### Starting the server
+```bash
+cd .\chat_App\
+npx react-native start
+```
+### Building the app
+>In a new Ternimal
+```bash
+cd .\chat_App\
+npx react-native run-android 
+```
 
 
 
